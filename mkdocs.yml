@@ -14,14 +14,14 @@ theme:
   name: 'material'
   palette:
     - scheme: default
-      primary: light red
-      accent: light red
+      primary: red
+      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: light red
-      accent: light red
+      primary: red
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
