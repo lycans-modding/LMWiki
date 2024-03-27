@@ -1,0 +1,78 @@
+# Honteusement copié depuis le repo du wiki de Risk of Rain 2
+# https://github.com/risk-of-thunder/R2Wiki
+name: Publish Documentation to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Clone LMWiki 
+        run: |
+          git clone https://github.com/lycans-modding/LMWiki.wiki.git
+          
+      - name: Prepare for publishing
+        id: prepare-publish
+        run: |
+          last_commit_hash_file="last_commit_hash.txt"
+          
+          if [ ! -f $last_commit_hash_file ]; then
+            echo 0 > $last_commit_hash_file;
+          fi
+          
+          cd LMWiki.wiki
+          current_commit_hash=$(bash -c 'git rev-parse HEAD')
+          cd ..
+          
+          last_commit_hash=$(cat $last_commit_hash_file)
+          
+          if [ "$current_commit_hash" == "$last_commit_hash" ]; then
+            echo "should-publish-new-doc=false" >> $GITHUB_OUTPUT;
+          else
+            echo "should-publish-new-doc=true" >> $GITHUB_OUTPUT;
+            
+            rm -rf docs
+            
+            cd LMWiki.wiki
+            for file in *_*.md; do file_path=${file//_//}; file_name=${file##*_}; directory_path=${file_path%/*}; mkdir -p "../docs/$directory_path"; mv "$file" "../docs/$directory_path/$file_name"; done
+            for file in *.md; do mkdir -p "../docs/"; if [[ "$file" != "Home.md" ]]; then mv "$file" "../docs/$file"; fi; done
+            
+            cd ..
+            rm -rf LMWiki.wiki
+            
+            echo $current_commit_hash > $last_commit_hash_file
+          
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+          
+            git add $last_commit_hash_file
+            git commit -m "[GitHub Action] Update last LMWiki commit hash"
+            
+            git add -A
+            git commit -m "[GitHub Action] Update docs"
+          fi
+          
+      - name: Save changes to repo
+        if: steps.prepare-publish.outputs.should-publish-new-doc == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: MkDocs Deploy To GitHub Pages
+        if: steps.prepare-publish.outputs.should-publish-new-doc == 'true'
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.24
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
