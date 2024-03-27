@@ -9,7 +9,7 @@ Vous êtes libres de contribuer comme bon vous semble à ce wiki communautaire, 
 
 ## Coment contribuer ?
 
-Tout le monde est libre de contribuer. Il vous suffit d'avoir un compte sur GitHub.
+Il suffit d'avoir un compte sur GitHub pour contribuer au wiki.
 
 ### Créer une nouvelle page
 
