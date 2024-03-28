@@ -27,4 +27,4 @@ Rendez-vous sur la page que vous souhaitez modifier et cliquez sur l'image de cr
 
 À noter : le [site web](https://lycans-modding.github.io/LMWiki/) se met à jour toutes les 24h à minuit,
 si vous pensez que votre contribution doit être mise en ligne au plus vite, vous pouvez contacter l'équipe
-wiki sur le [discord de modding](https://discord.gg/E4t6HcfgzH).
+wiki sur le [discord de modding](https://discord.gg/KjsvBDJwSV).
