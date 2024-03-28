@@ -41,9 +41,9 @@ Certains mods peuvent avoir une configuration accessible dans le dossier "steama
 ## Reporter un bug sur un mod
 
 Afin de vous porter assistance avec un mod, un moddeur aura besoin d'un maximum d'informations sur votre problème. Voici une liste non exhaustive d'éléments que vous devriez réunir avant de reporter un bug : 
-- Une description précise de ce que vous étiez en train de faire au moment où le bug s'est produit.
-- D'éventuelles captures d'écran ou de vidéos présentant le problème
-- **Un fichier "LogOutput.txt"**
+* Une description précise de ce que vous étiez en train de faire au moment où le bug s'est produit.
+* D'éventuelles captures d'écran ou de vidéos présentant le problème
+* **Un fichier "LogOutput.txt"**
 
 Pour trouver le fichier LogOutput.txt, rendez vous dans le dossier "steamapps\common\Lycans\BepInEx".
 
