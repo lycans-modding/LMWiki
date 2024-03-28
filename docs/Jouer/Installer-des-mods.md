@@ -8,7 +8,7 @@ La plupart des mods devraient requérir [BepInEx](https://github.com/lycans-modd
 
 ### BepInEx
 1. Rendez vous sur les [Release Github](https://github.com/lycans-modding/BepInExPack-Lycans/releases)
-2. Cliquez sur le lien "BepInExPack-<version>.zip" dans le menu déroulant "Assets"
+2. Cliquez sur le lien "BepInExPack-[version].zip" dans le menu déroulant "Assets"
 3. Dans Steam, faites un clic droit sur Lycans puis "Gérer > Parcourir les fichiers locaux"
 4. Vous pouvez extraire le contenu du fichier .zip que vous avez téléchargé dans le dossier "Lycans"
 
@@ -36,14 +36,15 @@ Si vous souhaitez désactiver tous les mods, vous pouvez renommer le fichier "wi
 
 ### Configuration des mods
 
-Certains mods peuvent avoir une configuration accessible dans le dossier "steamapps\common\Lycans\BepInEx\config\<nom du mod>.cfg", vous pouvez modifier ces fichiers de config à l'aide de n'importe quel éditeur de texte (bloc note, notepad++, visual studio code...)
+Certains mods peuvent avoir une configuration accessible dans le dossier "steamapps\common\Lycans\BepInEx\config\[nom du mod].cfg", vous pouvez modifier ces fichiers de config à l'aide de n'importe quel éditeur de texte (bloc note, notepad++, visual studio code...)
 
 ## Reporter un bug sur un mod
 
 Afin de vous porter assistance avec un mod, un moddeur aura besoin d'un maximum d'informations sur votre problème. Voici une liste non exhaustive d'éléments que vous devriez réunir avant de reporter un bug : 
-1. Une description précise de ce que vous étiez en train de faire au moment où le bug s'est produit.
-2. D'éventuelles captures d'écran ou de vidéos présentant le problème
-3. **Un fichier "LogOutput.txt"**
+
+- Une description précise de ce que vous étiez en train de faire au moment où le bug s'est produit.
+- D'éventuelles captures d'écran ou de vidéos présentant le problème
+- **Un fichier "LogOutput.txt"**
 
 Pour trouver le fichier LogOutput.txt, rendez vous dans le dossier "steamapps\common\Lycans\BepInEx".
 
