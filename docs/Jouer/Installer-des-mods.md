@@ -36,7 +36,7 @@ Si vous souhaitez désactiver tous les mods, vous pouvez renommer le fichier "wi
 
 ### Configuration des mods
 
-Certains mods peuvent avoir une configuration accessible dans le dossier "steamapps\common\Lycans\BepInEx\config\[nom du mod].cfg", vous pouvez modifier ces fichiers de config à l'aide de n'importe quel éditeur de texte (bloc note, notepad++, visual studio code...)
+Certains mods peuvent avoir une configuration accessible dans le dossier "steamapps\common\Lycans\BepInEx\config\\[nom du mod].cfg", vous pouvez modifier ces fichiers de config à l'aide de n'importe quel éditeur de texte (bloc note, notepad++, visual studio code...)
 
 ## Reporter un bug sur un mod
 
