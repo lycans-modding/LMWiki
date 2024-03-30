@@ -25,6 +25,6 @@ Veillez à **TOUJOURS** avoir une catégorie pour votre page, sinon elle n'appar
 
 Rendez-vous sur la page que vous souhaitez modifier et cliquez sur l'image de crayon en haut de la page.
 
-À noter : le [site web](https://lycans-modding.github.io/LMWiki/) se met à jour toutes les 24h à minuit,
+À noter : le [site web](https://lycans-modding.github.io/LMWiki/) se met à jour toutes les 24h aux alentours de minuit (UTC),
 si vous pensez que votre contribution doit être mise en ligne au plus vite, vous pouvez contacter l'équipe
 wiki sur le [discord de modding](https://discord.gg/KjsvBDJwSV).
