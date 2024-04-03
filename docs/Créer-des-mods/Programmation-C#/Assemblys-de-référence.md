@@ -51,7 +51,7 @@ var dropdown = ui.alchemistsCountDropdown;
 
 ## Installer les librairies
 
-Dans Visual Studio, faites un clic droit sur votre projet ou sur votre solution puis cliquez sur "Gérer les package NuGet". Dans la fenêtre qui s'ouvre, assurez vous que la source de package (en haut à droite) soit définie sur "Tout" ou sur "nuget.org". Puis, dans l'onglet "Parcourir", recherchez "Lycans". Voud devriez voir les packages suivants : 
+Dans Visual Studio, faites un clic droit sur votre projet ou sur votre solution puis cliquez sur "Gérer les package NuGet". Dans la fenêtre qui s'ouvre, assurez vous que la source de package (en haut à droite) soit définie sur "Tout" ou sur "nuget.org". Puis, dans l'onglet "Parcourir", recherchez "Lycans". Vous devriez voir les packages suivants : 
 
 ![image](https://github.com/lycans-modding/LMWiki/assets/15271735/1357ce4d-c23d-4b3e-91b0-08d446178785)
 
