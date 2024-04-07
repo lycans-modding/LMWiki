@@ -1,5 +1,7 @@
 # Liste des mods
 
+Pour voir comment installer des mods, rendez vous sur [cette page](https://lycans-modding.github.io/LMWiki/Jouer/Installer-des-mods/).
+
 Cette page sert avant tout à recenser les mods en l'absence d'un manager de mods tel que R2Modman pour le moment.
 Si vous êtes moddeur et que vous souhaitez ajouter un lien vers votre mod, merci de renseigner les informations suivantes dans le tableau : 
 
@@ -14,4 +16,5 @@ Voici un tableau récapitulatif des mods qui ont été réalisés à l'aide de [
 
 |Mod|Auteur|Lien de téléchargement|Description|Version de BepInExPack-Lycans|Version de Lycans|
 |---|------|----------------------|-----------|----------------------------|----------------|
-|OptionLimitsBegone|Shepardeon|[Release Github](https://github.com/Shepardeon/LycansMod-OptionsLimitsBegone/releases/tag/2.1.0)|Augmente le nombre de rôle spéciaux qui peuvent être ajoutés par partie jusqu'à 5 par rôle|5.4.2202|0.11.1|
+|OptionLimitsBegone|Shepardeon|[Release Github](https://github.com/Shepardeon/LycansMod-OptionsLimitsBegone/releases)|Augmente le nombre de rôle spéciaux dans une partie|5.4.2202|0.11.1|
+|Cupidon|Shepardeon|[Release Github](https://github.com/Shepardeon/LycansMod-Cupidon/releases)|Ajoute les amoureux à Lycans|5.4.2202|0.11.1|
