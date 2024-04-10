@@ -50,4 +50,4 @@ Pour trouver le fichier LogOutput.txt, rendez vous dans le dossier "steamapps\co
 
 Si le fichier est trop lourd pour la limite d'upload de Discord, vous pouvez le compresser dans une archive .zip.
 
-Une fois que vous avez ces éléments à votre disposition, rendez vous dans le salon #support-technique sur le [Discord LYCANS MODDING](https://discord.gg/KjsvBDJwSV) et notifiez l'auteur du mod (si vous savez que c'est bien son mod qui pause problème) sinon attendez le passage d'une âme charitable qui pourra vous aider :)
+Une fois que vous avez ces éléments à votre disposition, rendez vous dans le salon #support-technique sur le [Discord LYCANS MODDING](https://discord.gg/KjsvBDJwSV) et notifiez l'auteur du mod (si vous savez que c'est bien son mod qui pose problème) sinon attendez le passage d'une âme charitable qui pourra vous aider :)
