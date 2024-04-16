@@ -21,3 +21,5 @@ Voici un tableau récapitulatif des mods qui ont été réalisés à l'aide de [
 |PortalDisabler|LloydHawkeye|[Release Github](https://github.com/LloydHawkeye/Lycans-PortalDisabler/releases)|Désactive les portails de téléportation|5.4.2202|0.11.1|
 |PortalAlwaysActive|LloydHawkeye|[Release Github](https://github.com/LloydHawkeye/Lycans-PortalAlwaysActive/releases)|Mod pour le jeu Lycans permettant l'activation des portails constant|5.4.2202|0.11.1|
 |WolfWithPotionEffect|LloydHawkeye|[Release Github](https://github.com/LloydHawkeye/Lycans-WolfWithPotionEffect/releases)|Mod pour le jeu Lycans permettant de garder l'effet d'une potion active quand le joueur se transforme en loup|5.4.2202|0.11.1|
+|TrapDisabler|LloydHawkeye|[Release Github](https://github.com/LloydHawkeye/Lycans-TrapDisabler/releases)|Mod pour le jeu Lycans permettant la désactivation le spawn des pièges à loup|5.4.2202|0.11.1|
+|WolfCanTakeItem|LloydHawkeye|[Release Github](https://github.com/LloydHawkeye/Lycans-WolfCanTakeItem/releases)|Mod pour le jeu Lycans permettant au loup d'utiliser les items une fois transformé|5.4.2202|0.11.1|
