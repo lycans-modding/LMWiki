@@ -10,7 +10,7 @@ Si vous êtes moddeur et que vous souhaitez ajouter un lien vers votre mod, merc
 - **Lien de téléchargement** : Un lien pour télécharger votre mod (pensez à utiliser le formatage de liens en Markdown)
 - **Description** : Une courte description de ce que fait votre mod
 - **Version de BepInExPack-Lycans** : La dernière version du pack BepInEx sur laquelle le mod a été testé
-- **Version de Lycans** : La dernière version de Lycans sur laquel le mod a été testé
+- **Version de Lycans** : La dernière version de Lycans sur laquelle le mod a été testé
 
 Voici un tableau récapitulatif des mods qui ont été réalisés à l'aide de [BepInExPack-Lycans](https://github.com/lycans-modding/BepInExPack-Lycans/releases) :
 
