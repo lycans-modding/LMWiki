@@ -1,0 +1,36 @@
+Voici la liste des audios qui sont disponibles dans le jeu (Version 0.11.1)
+# Effets Sonores (SFX)
+- Sound : BELL - Son de cloche, utilisé pour les notifications ou les moments solennels.
+- Sound : DOOR_CLOSE - Bruit de porte qui se ferme.
+- Sound : DOOR_OPEN - Bruit de porte qui s'ouvre.
+- Sound : OWL - Cri de hibou, idéal pour les scènes nocturnes.
+- Sound : ROOSTER - Chant du coq, souvent utilisé pour signaler l'aube.
+- Sound : PUNCH - Bruit de coup de poing.
+- Sound : FOOTSTEP_1 - Bruit de pas sur un sol dur.
+- Sound : FOOTSTEP_2 - Bruit de pas sur un sol mou.
+- Sound : LOOT - Son quand un objet est ramassé.
+- Sound : SHOT_CLOSE - Détonation d'arme à feu de près.
+- Sound : SHOT_LONG - Détonation d'arme à feu de loin.
+- Sound : BULLET_HIT - Son d'une balle qui atteint sa cible.
+- Sound : WOLF_TRANSFORM - Son de transformation en loup.
+- Sound : SUCCESS_SHOT - Son spécifique pour un tir réussi.
+- Sound : RELOAD - Son de rechargement d'arme.
+- Sound : WOOD_A - Craquement de bois type A.
+- Sound : WOOD_B - Craquement de bois type B.
+- Sound : VICTORY - Musique ou effet sonore de victoire.
+- Sound : DEFEAT - Musique ou effet sonore de défaite.
+- Sound : VILLAGER - Sons divers de villageois.
+- Sound : WOLF - Cri de loup.
+- Sound : FART_1 à Sound : FART_8 - Différents sons de pets, pour des usages humoristiques ou particuliers.
+- Sound : DRINKING - Son de boisson ingérée.
+- Sound : TRAP_DROP - Son de piège qui se déclenche.
+- Sound : TRAP_CLOSING - Son de piège qui se ferme.
+- Sound : TRAP_BREAKING - Son de piège qui se brise.
+- Sound : TELEPORT_START - Son de début de téléportation.
+- Sound : TELEPORT_END - Son de fin de téléportation.
+- Sound : KILL_1 à Sound : KILL_5 - Sons divers pour des mises à mort.
+# Musique (Musical Themes)
+- Music : DAY - Thème musical pour les scènes de jour.
+- Music : NIGHT - Thème musical pour les scènes de nuit.
+- Music : WOLF_CLOSE - Thème musical angoissant pour la proximité d'un loup.
+- Music : MAIN_THEME - Thème principal du jeu ou de l'application.
