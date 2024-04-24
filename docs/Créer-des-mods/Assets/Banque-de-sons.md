@@ -1,4 +1,4 @@
-Voici la liste des audios qui sont disponibles dans le jeu (Version 0.11.1)
+Voici la liste des audios qui sont disponibles dans la banque de sons du jeu (Version 0.11.1)
 # Effets Sonores (SFX)
 - Sound : BELL - Son de cloche, utilisé pour les notifications ou les moments solennels.
 - Sound : DOOR_CLOSE - Bruit de porte qui se ferme.
