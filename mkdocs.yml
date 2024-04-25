@@ -8,6 +8,9 @@ plugins:
   - ezlinks
   - mkdocs-video
   - mkdocs-fix-github-wiki-url-plugin
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 repo_name: 'lycans-modding/LMWiki'
 repo_url: 'https://github.com/lycans-modding/LMWiki/wiki'
 theme:
