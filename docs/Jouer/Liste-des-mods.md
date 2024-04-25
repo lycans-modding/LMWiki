@@ -1,5 +1,7 @@
 # Liste des mods
 
+> ⚠️ **ATTENTION :** Les mods pour Lycans sont désormais disponibles sur [Thunderstore](https://thunderstore.io/c/lycans/) ! Cette page va donc progressivement disparaître au profit de Thunderstore.
+
 Pour voir comment installer des mods, rendez vous sur [cette page](https://lycans-modding.github.io/LMWiki/Jouer/Installer-des-mods/).
 
 Cette page sert avant tout à recenser les mods en l'absence d'un manager de mods tel que R2Modman pour le moment.
