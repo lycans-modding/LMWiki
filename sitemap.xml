@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/Cr%C3%A9er-des-mods/Assets/Banque-de-sons/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/Cr%C3%A9er-des-mods/Programmation-C%23/Assemblys-de-r%C3%A9f%C3%A9rence/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/Cr%C3%A9er-des-mods/Thunderstore/Publier-un-mod/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/Jouer/Installer-des-mods/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lycans-modding.github.io/LMWiki/Jouer/Liste-des-mods/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
